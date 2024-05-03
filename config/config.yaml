@@ -1,0 +1,6 @@
+artifacts_root: artifacts
+# making automation for LLM which download pdfs with api and store it one place
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  local_dir: artifacts/data_ingestion/local

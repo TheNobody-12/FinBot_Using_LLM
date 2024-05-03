@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+FINBOT_USING_LLM.egg-info/PKG-INFO
+FINBOT_USING_LLM.egg-info/SOURCES.txt
+FINBOT_USING_LLM.egg-info/dependency_links.txt
+FINBOT_USING_LLM.egg-info/top_level.txt
