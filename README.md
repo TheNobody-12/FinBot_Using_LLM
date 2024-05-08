@@ -21,50 +21,6 @@ This project focuses on developing a Retrieval-Augmented Generation (RAG) system
 
 4. **Visualization:**
    - Visualize insights from the generated answers using Matplotlib, Seaborn, or Plotly to provide intuitive representations of key information extracted from financial documents.
-
----
-
-**Installation:**
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/financial-document-analysis.git
-   cd financial-document-analysis
-   ```
-
-2. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Download and setup Langchain and ChromaDB according to their respective documentation.
-
----
-
-**Usage:**
-
-1. Run the data ingestion script to download 10-Q financial statements.
-   ```
-   python data_ingestion.py
-   ```
-
-2. Preprocess and index the financial documents using Langchain and ChromaDB.
-   ```
-   # Add instructions for preprocessing and indexing
-   ```
-
-3. Start the RAG system to generate answers to user queries.
-   ```
-   # Add instructions for running the RAG system
-   ```
-
-4. Visualize insights from the generated answers.
-   ```
-   # Add instructions for visualization
-   ```
-
----
-
 **Contributing:**
 
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
@@ -86,7 +42,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 **Contact:**
 
-For any questions or inquiries about this project, feel free to contact [Your Name] at [your email address].
+For any questions or inquiries about this project, feel free to contact.
 
 ---
   
